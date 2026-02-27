@@ -1,11 +1,4 @@
-😂 got it — **everything at once**, no back-and-forth.
 
-Below is a **FINAL, clean, GitHub-ready `README.md`**.
-**Copy-paste this entire thing into `README.md`** and you’re done.
-
----
-
-```markdown
 # 📄 TXT-RAG-Search
 
 A lightweight **Retrieval-Augmented Generation (RAG)** system that allows you to search and ask questions across a folder of `.txt` files using **semantic search** and **FAISS**.
@@ -225,3 +218,4 @@ Next (only if you say yes):
 - **Resume bullet**  
 - **Day-3: PDF RAG → Production-grade API** 🚀
 ```
+
